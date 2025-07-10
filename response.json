@@ -1,0 +1,1 @@
+{"errorMessage": "'actionGroup'", "errorType": "KeyError", "requestId": "d03fb533-41cd-4bd9-ace1-94f66505ab98", "stackTrace": ["  File \"/var/task/dummy_lambda.py\", line 146, in lambda_handler\n    action_group = event['actionGroup']\n"]}
